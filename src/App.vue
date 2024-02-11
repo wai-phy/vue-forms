@@ -2,7 +2,6 @@
   <h1>Ninja</h1>
   <SignUp />
 </template>
-
 <script>
 import SignUp from './components/SignUp.vue';
 export default {
